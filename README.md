@@ -1,4 +1,4 @@
-# vue-mini-blog
+# Basic Mini Blog
 
 # NodeJS, Express, MySQL, Vue
 
