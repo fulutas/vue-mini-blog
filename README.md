@@ -1,6 +1,6 @@
 # vue-mini-blog
 
-# client
+# NodeJS, Express, MySQL, Vue
 
 ## Project setup
 ```
